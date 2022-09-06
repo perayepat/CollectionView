@@ -15,4 +15,6 @@ class NumberCell: UICollectionViewCell {
     
     @IBOutlet var label: UILabel!
     
+    
+    
 }
